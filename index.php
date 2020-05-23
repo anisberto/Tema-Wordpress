@@ -16,10 +16,7 @@
 					<div class="row">
 						<aside class="sidebar col-md-4">barra lateral</aside>
 						<div class="news col-md-8">
-<<<<<<< HEAD
 						</div>          
-=======
-
 							<?php 
 							if( have_posts() ):
 								while ( have_posts() ): the_post();
@@ -40,7 +37,6 @@
 							<?php endif; ?>
 
 						</div>
->>>>>>> 96bf56bdafedcc99ce92fddb273e51a43e0e44d2
 					</div>
 				</div>
 			</section>
