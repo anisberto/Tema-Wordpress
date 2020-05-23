@@ -4,9 +4,10 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width">
 	<title>Ti Sistema</title>
+	<link rel="icon" href="/favicon.png" type="image/png" />
 	<?php wp_head(); ?>
 </head>
-<!-- <body <?php //body_class(); ?>> faz a chamada das demais classes -->
+
 <body ?php body_class(); ?>
 	<header>
 		<section class="top-bar">

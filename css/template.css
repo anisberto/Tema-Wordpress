@@ -1,16 +1,18 @@
 .social-media-icons{
-	background: green; height: 30px;
+	background: orange; height: 30px;
 }
 
 .search{
-	background: yellow; height: 30px;
+	background: gray; height: 30px;
 }
 
 /* Ajustando a disposição dos Menus */
 .main-menu ul li{
 	display: inline;
+	padding-right: 1rem;
 }
 
 .footer-menu ul li{
 	display: inline;
+	padding-right: 1rem;
 }
