@@ -15,7 +15,8 @@
 				<div class="container">
 					<div class="row">
 						<aside class="sidebar col-md-4">barra lateral</aside>
-						<div class="news col-md-8">noticias</div>
+						<div class="news col-md-8">
+						</div>          
 					</div>
 				</div>
 			</section>
